@@ -1,6 +1,5 @@
 
-const backendDomain =  "http://localhost:8080" /// process.env.REACT_APP_BACKEND_URL
-
+const backendDomain =  https://backend-oipt.onrender.com
 const SummaryApi={
     signUP :
     {
